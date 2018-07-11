@@ -28,7 +28,7 @@ Credits/Links
 The code was not my own work, I just improved it from these sources and provided a simpler API.
 
 * http://playground.arduino.cc/Code/ADCTouch
-* http://tuomasnylund.fi/drupal6/content/capacitive-touch-sensing-avr-and-single-adc-pin
+* [http://tuomasnylund.fi/drupal6/content/capacitive-touch-sensing-avr-and-single-adc-pin _(@web.archive.org)_](http://web.archive.org/web/20170912232909/http://tuomasnylund.fi/drupal6/content/capacitive-touch-sensing-avr-and-single-adc-pin)
 
 Version History
 ===============
