@@ -8,7 +8,7 @@ If you move closer to the wire, the higher the values will get.
 You can measure if a pin was touched or if you are just very close to the pin.
 Make sure to calibrate the offset, see the example on how to do.
 
-####Compatible with:
+#### Compatible with:
 * Arduino IDE 1.0.x
 * Arduino IDE 1.6.x
 * Arduino Uno/Nano/Mini
